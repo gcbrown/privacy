@@ -1,4 +1,5 @@
 # Libertas Wallet
+## Privacy Policy
 
 Per Google requirements, the camera permissions of Libertas Wallet must follow Google guidelines and have a privacy policy.
 
